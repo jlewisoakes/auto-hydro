@@ -12,5 +12,17 @@
     "http-errors": "~1.6.2",
     "morgan": "~1.9.0",
     "pug": "2.0.0-beta11"
-  }
+  },
+  "description": "Test app for automating water circulation pump",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlewisoakes/auto-hydro.git"
+  },
+  "author": "Justin Lewis-Oakes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlewisoakes/auto-hydro/issues"
+  },
+  "homepage": "https://github.com/jlewisoakes/auto-hydro#readme"
 }
